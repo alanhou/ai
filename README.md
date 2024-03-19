@@ -5,3 +5,5 @@
 * [第2章 文本分类](nlp/transformer02.ipynb)
 * [第3章 解构Transformer](nlp/transformer03.ipynb)
 * [第4章 多语言命名实体识别](transformer04.ipynb)
+* [第5章 文本生成](transformer05.ipynb)
+* [第6章 文本摘要](transformer06.ipynb)
