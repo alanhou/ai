@@ -7,3 +7,9 @@
 * [第4章 多语言命名实体识别](transformer04.ipynb)
 * [第5章 文本生成](transformer05.ipynb)
 * [第6章 文本摘要](transformer06.ipynb)
+
+`.env`文件：
+```
+OPENAI_API_KEY=sk-xxxxxxxxxxxxxxx
+OPENAI_BASE_URL=https://api.openai.com/v1
+```
