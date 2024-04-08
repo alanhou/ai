@@ -9,3 +9,7 @@
 * [第6章 文本摘要](nlp/transformer06.ipynb)
 * [ChatGPT开发入门](chatgpt-api/helloworld.ipynb)
 
+
+## Math for Programmers
+
+*[Chapter 1: Learning math with code](math-for-programmers/chapter01.ipynb)
