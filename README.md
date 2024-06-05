@@ -1,4 +1,8 @@
 
+## 使用Transformer和Diffusion模型上手生成式AI
+
+* [第1章 多媒体生成入门](hands-on-generative-ai/01-intro.ipynb)
+
 ## Natural Language Processing with Transformers, Revised Edition
 
 * [第1章 你好Transformer](nlp/transformer01.ipynb)
