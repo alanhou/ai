@@ -4,6 +4,7 @@
 * [第1章 多媒体生成入门](hands-on-generative-ai/01-intro.ipynb)
 * [第2章 Transformers](hands-on-generative-ai/02-transformers.ipynb)
 * [第3章 扩散模型](hands-on-generative-ai/03-diffusion-models.ipynb)
+* [第4章 Stable Diffusion](hands-on-generative-ai/04-stable-diffusion.ipynb)
 
 ## Natural Language Processing with Transformers, Revised Edition
 
