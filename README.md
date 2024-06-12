@@ -5,6 +5,7 @@
 * [第2章 Transformers](hands-on-generative-ai/02-transformers.ipynb)
 * [第3章 扩散模型](hands-on-generative-ai/03-diffusion-models.ipynb)
 * [第4章 Stable Diffusion](hands-on-generative-ai/04-stable-diffusion.ipynb)
+* [第5章 大语言模型微调](hands-on-generative-ai/05-fine-tuning-llm.ipynb)
 
 ## Natural Language Processing with Transformers, Revised Edition
 
