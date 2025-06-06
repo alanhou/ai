@@ -1,4 +1,8 @@
 
+## 一起学LangChain
+
+* [第1章 通过LangChain学习LLM 基础知识](https://alanhou.org/llm-fundamentals-with-langchain/)
+
 ## 使用Transformer和Diffusion模型上手生成式AI
 
 * [第1章 多媒体生成入门](hands-on-generative-ai/01-intro.ipynb)
