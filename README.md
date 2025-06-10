@@ -3,6 +3,7 @@
 
 * [第1章 通过LangChain学习LLM 基础知识](https://alanhou.org/llm-fundamentals-with-langchain/)
 * [第2章 RAG上: 为自有数据建立索引](https://alanhou.org/rag-part-1-indexing-your-data/)
+* [第3章 RAG下: 与自有数据聊天](https://alanhou.org/rag-chatting-with-your-data/)
 
 ## 使用Transformer和Diffusion模型上手生成式AI
 
